@@ -1,0 +1,6 @@
+c:\users\suyerva\documents\visual studio 2012\Projects\Aug2015_practice\Aug2015_practice\bin\Debug\Aug2015_practice.exe.config
+c:\users\suyerva\documents\visual studio 2012\Projects\Aug2015_practice\Aug2015_practice\bin\Debug\Aug2015_practice.exe
+c:\users\suyerva\documents\visual studio 2012\Projects\Aug2015_practice\Aug2015_practice\bin\Debug\Aug2015_practice.pdb
+c:\users\suyerva\documents\visual studio 2012\Projects\Aug2015_practice\Aug2015_practice\obj\Debug\Aug2015_practice.csprojResolveAssemblyReference.cache
+c:\users\suyerva\documents\visual studio 2012\Projects\Aug2015_practice\Aug2015_practice\obj\Debug\Aug2015_practice.exe
+c:\users\suyerva\documents\visual studio 2012\Projects\Aug2015_practice\Aug2015_practice\obj\Debug\Aug2015_practice.pdb

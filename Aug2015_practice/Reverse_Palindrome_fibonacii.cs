@@ -25,6 +25,7 @@ namespace Aug2015_practice
             }
             return output;
         }
+        // FizzBizz comment
         public int fizzBuzz()
         {
             int output = 0;
